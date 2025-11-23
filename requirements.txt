@@ -1,0 +1,6 @@
+streamlit
+pandas
+telethon
+aiosmtplib
+openpyxl
+python-dotenv
