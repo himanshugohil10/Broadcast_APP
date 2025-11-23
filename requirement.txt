@@ -4,11 +4,3 @@ telethon
 aiosmtplib
 openpyxl
 python-dotenv
-
-API_ID = '33039797' 
-API_HASH = 'e92970de5205e67f29714f488bd7a896'
-SESSION_FILE = 'telegram_session' # Name of your .session file (without extension)
-
-# 2. GMAIL CREDENTIALS
-GMAIL_USER = 'himanshugohil405@gmail.com'
-GMAIL_APP_PASSWORD = 'lwgerhkmvklfdoxc'
